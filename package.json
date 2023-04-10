@@ -1,12 +1,12 @@
 {
   "name": "react-project",
-  "private": false,
-  "homepage": "https://github.com/AhmadOsama9/To_Do_List_React/",
+  "private": true,
+  "homepage": "https://ahmadosama9.github.io/todolist_react/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && move dist build",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
