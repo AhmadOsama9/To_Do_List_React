@@ -1,6 +1,6 @@
 {
   "name": "react-project",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/AhmadOsama9/To_Do_List_React/",
   "version": "0.0.0",
   "type": "module",
