@@ -5,10 +5,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && move dist build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
-    "build": "vite build && move dist build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
