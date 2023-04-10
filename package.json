@@ -1,7 +1,7 @@
 {
   "name": "react-project",
   "private": true,
-  "homepage": "https://github.com/AhmadOsama9/To_Do_List_React",
+  "homepage": "https://github.com/AhmadOsama9/To_Do_List_React/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
