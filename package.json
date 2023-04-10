@@ -1,6 +1,6 @@
 {
   "name": "react-project",
-  "private": true,
+  "private": false,
   "homepage": "https://ahmadosama9.github.io/todolist_react",
   "version": "0.0.0",
   "type": "module",
