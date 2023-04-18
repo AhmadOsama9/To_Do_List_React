@@ -1,4 +1,3 @@
-import "./style.css"
 import {useState, useEffect} from "react";
 import {NewTodoForm} from "./NewTodoForm"
 import {TodoList} from "./TodoList";
